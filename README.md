@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <br/><a href="https://www.linkedin.com/in/austin-urbanski/">Cybersecurity Student</a>
+<h1>Hi, I'm Austin. Heres a look at my projects! <br/><a href="https://www.linkedin.com/in/austin-urbanski/">Cybersecurity Student</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
